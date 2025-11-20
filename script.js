@@ -28,8 +28,8 @@ mydog.makeSound()
 mydog.bark()
 
 let mycat = new Animal("Siamese")
-mydog.makeSound()
-mydog.purr() 
+mycat.makeSound()
+mycat.purr() 
 
 // Do not change the code below this line
 window.Animal = Animal;
